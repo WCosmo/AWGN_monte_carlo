@@ -1,4 +1,4 @@
-# AWGN monte carlo
+# AWGN com Monte Carlo
 Autor: Wilson Cosmo
 Data: 2026-05-01
 
