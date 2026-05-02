@@ -1,6 +1,6 @@
 # AWGN com Monte Carlo
-Autor: Wilson Cosmo
-Data: 2026-05-01
+- Autor: Wilson Cosmo
+- Data: 2026-04-30
 
 Simulação física do canal LoRa P2P usando o método Monte Carlo:
 
